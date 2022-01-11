@@ -1,0 +1,6 @@
+@media (max-width: 768px) {
+    .login {
+        height: 100vh;
+        width: 100%;
+    }
+}
